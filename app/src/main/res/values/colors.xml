@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="primary_color">#00A86B</color>
+    <color name="black">#0E100F</color>
+    <color name="status_bar_color">#009C64</color>
+    <color name="input_field_bg">#F1F3F2</color>
+    <color name="date_time">#7E8492</color>
+    <color name="red">#FF0000</color>
+
+</resources>

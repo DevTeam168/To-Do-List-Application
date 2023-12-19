@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">To Do List</string>
+    <string name="to_do_list">To Do List</string>
+    <string name="loading">Loading…</string>
+    <string name="add_a_task">Add a task</string>
+    <string name="all_task">All Tasks</string>
+    <string name="sample_datetime">12/13/2023 01:33 AM</string>
+    <string name="add">Add</string>
+    <string name="no_result_ncreate_a_new_one_instead">No result.\nCreate a new one instead.</string>
+    <string name="please_try_again">Please try again.</string>
+    <string name="invalid">Invalid</string>
+    <string name="already_exist">This name has already existed in the list.</string>
+    <string name="update">Update</string>
+    <string name="no_item">No Tasks, yet.</string>
+    <string name="nothing_change">There\'s no change anything.</string>
+    <string name="invalid_data">Invalid Data</string>
+</resources>
